@@ -5,6 +5,7 @@
   <default revision="master"
            remote="origin"
            sync-j="4" />
+  <project path="app" name="isyiwang/prayck" revision="master" />
 
   <project path="framework/ymagine" name="yahoo/ygloo-ymagine" revision="master" />
 </manifest>
